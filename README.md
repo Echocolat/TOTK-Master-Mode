@@ -70,7 +70,7 @@ Make sure you're using a version that's at least as recent as v2.0.0 beta2. This
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
 Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.3.4%20x%20DotK%201.0.2%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.0.2*
-Dark Army Resurrection: [Download compatibility patch]() - *Target version is 2.1*
+Dark Army Resurrection: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/DAR%20Compatibility%20Patch%20for%20CM%20-%203.1%20-%20DELUXE.tkcl?raw=true) - *Target version is 2.1*
 
 In case you use Depths of the Kingdom, Dark Army Resurrection and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - DAR Compatibility Patch for DOTK
