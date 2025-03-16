@@ -56,6 +56,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
 - **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while. WARNING: This may take a lot of memory and may crash your Nintendo Switch hardware if used alongside All enemies scale.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. No temporary save is made after beating it, which will make you restart the Army if you lose to Demon King Ganondorf. WARNING: This may crash your Nintendo Switch hardware. 
+- **Useless Fairy**: Fairies do not resurrect Link after his HP fall to 0.
 
 ### How to install (TKMM)
 
