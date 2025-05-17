@@ -1,16 +1,16 @@
 @echo off
 
 :: Set mod folder paths
-set MOD1="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.1.0 (Base)"
-set MOD2="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.1.0 (Recommended)"
-set MOD3="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.1.1 (Base)"
-set MOD4="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.1.1 (Recommended)"
-set MOD5="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.1.2 (Base)"
-set MOD6="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.1.2 (Recommended)"
-set MOD7="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.2.0 (Base)"
-set MOD8="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.2.0 (Recommended)"
-set MOD9="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.2.1 (Base)"
-set MOD10="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.4 for v1.2.1 (Recommended)"
+set MOD1="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.1.0 (Base)"
+set MOD2="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.1.0 (Recommended)"
+set MOD3="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.1.1 (Base)"
+set MOD4="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.1.1 (Recommended)"
+set MOD5="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.1.2 (Base)"
+set MOD6="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.1.2 (Recommended)"
+set MOD7="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.2.0 (Base)"
+set MOD8="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.2.0 (Recommended)"
+set MOD9="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.2.1 (Base)"
+set MOD10="C:\Users\lezen\Desktop\Alex\GitHub\TOTK-Master-Mode\Packaged\Challenge Mode 1.3.5 for v1.2.1 (Recommended)"
 
 :: Set the executable path
 set EXE="C:\Users\lezen\Desktop\Alex\Jeux\Tears of the Kingdom modding\restbl.exe"
