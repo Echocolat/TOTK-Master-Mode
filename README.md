@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.3.4)
+## TOTK Challenge Mode (v1.3.5)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -20,17 +20,18 @@ This mod aims to make Tears of the Kingdom __harder__ by adding new, __more dang
 This mod comes with multiple options to enhance your experience. Recommended options should all be enabled in order to play as the mod was intended to be played, but you're free to tinker with them as you want.
 
 ##### Additions
-- **All bosses buff**: Bosses (including Moragia, Sludge Like, Kohga 1 2 3 & his Construct) are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. (__recommended__)
+- **All bosses buff**: Bosses (including Moragia, Sludge Like, Kohga 1 2 3 & his Construct) are all stronger and faster (except for Ganondorf), Dungeon bosses deal gloom damage. They also have restricted Perfect Dodge timings when applicable. (__recommended__)
 - **Blåhaj over Blue Sand Seal Plush**: Replaces the Blue Sand Seal Plushes with Blåhajs. Trans rights are human rights :) (this is just a port of [the eponymous mod](https://gamebanana.com/mods/499961))
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
-- **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. (__recommended__)
-- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. Gloom Spawn and Phantom Ganon are also buffed. (__recommended__)
+- **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. The Perfect Dodge timings are harder to execute on them specifically. (__recommended__)
+- **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. Gloom Spawn and Phantom Ganon are also buffed. They also have restricted Perfect Dodge timings when applicable. (__recommended__)
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 
 ##### Buffs
 - **Better Defense Up meal effect**: The Defense Up meal effect is buffed in order to make it viable and interesting against Attack Up. Level 1 goes from 4 to 12, Level 2 goes from 12 to 24 and Level 3 goes from 24 to 48. (__recommended__)
 
 ##### Nerfs
+- **Harder Perfect Parry timing**: The Perfect Parry window is 3 frames instead of 5. (__recommended__)
 - **Higher Gloom damage multiplier**: Gloomed enemies in the vanilla game inflict 0.3x times their damage converted to gloomed hearts. This was changed to 0.8x their damage. (__recommended__)
 - **Hitstun nerf for Link**: Most of Link's attacks do not interrupt enemies' actions. (__recommended__)
 - **Nerfed charge attacks**: Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)
@@ -41,6 +42,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **No One Shot Protection**: Disables one shot protection. (__recommended__)
 - **No saving during battle**: Disables saving when you fight. (__recommended__)
 - **Oblivious sages and Sidon ability nerf**: Sages don't attack enemies, enemies aren't distracted by Sages. Sidon's ability has a longer cooldown. (__recommended__)
+- **Weapon durability loss on Lynels**: Weapons used on Lynels' back lose durability, unlike in the base game. (__recommended__)
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
@@ -48,9 +50,9 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
 
 ##### Masochism options
-- **All bosses buff+**: All bosses buff but on steroids. Bosses are even stronger and faster (except for Ganondorf), they deal heavy gloom damage. (__recommended__)
+- **All bosses buff+**: All bosses buff but on steroids. Bosses are even stronger and faster (except for Ganondorf), they deal heavy gloom damage. They also have restricted Perfect Dodge timings when applicable.
 - **All enemies scale**: Very unrecommended option unless you want to suffer. This makes it so that all map enemies scale automatically if possible, regardless of their map parameters. Basically, all camps will be full golden in NG+, and will become full golden at some point after playing in non NG+.
-- **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit. Gloom Spawn and Phantom Ganon are also buffed.
+- **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit. Gloom Spawn and Phantom Ganon are also buffed. They also have restricted Perfect Dodge timings when applicable.
 - **Enemy Elemental Gem Arrows**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems. This also applies to any elemental fruit fuse used on arrows by enemies.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
@@ -70,7 +72,7 @@ Make sure you're using a version that's at least as recent as v2.0.0 beta2. This
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.3.4%20x%20DotK%201.0.2%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.0.2*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.3.5%20x%20DotK%201.1.2%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.2*
 Dark Army Resurrection: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/DAR%20Compatibility%20Patch%20for%20CM%20-%203.1%20-%20FREE.tkcl?raw=true) - *Target version is 2.1 FREE* - *If you're using the DELUXE version, the compatibility patch is located at the same place you got the .tkcl file for DAR DELUXE*
 
 In case you use Depths of the Kingdom, Dark Army Resurrection and Challenge Mode at the same time, you need to use the following priority order in TKMM:
@@ -78,7 +80,7 @@ In case you use Depths of the Kingdom, Dark Army Resurrection and Challenge Mode
 - DAR Compatibility Patch for CM
 - Dark Army Resurrection
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
-- DOTK v1.0.2
+- DOTK v1.1.2
 - Challenge Mode
 
 ### How to install (Not TKMM)
@@ -110,10 +112,9 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.3.4)
+### Known issues (v1.3.5)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Enemy Health Regeneration sometimes makes it so that enemies start with only a small portion of their HP. This is being worked on.
-- When installed through TKMM, the credits are a bit messed up. This should be fixed in TKMM's next update.
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
