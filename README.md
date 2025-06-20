@@ -62,7 +62,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 
 ### How to install (TKMM)
 
-Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
+Make sure that you are not playing on version 1.0.0 or 1.4.x of the game, which are not supported.
 
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
@@ -72,35 +72,35 @@ Make sure you're using a version that's at least as recent as v2.0.0 beta2. This
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.4.0%20x%20DotK%201.1.3%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.3*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.4.0%20x%20DotK%201.1.3%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.3*
 
 In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
 - Depths of the Kingdom
 - Challenge Mode
 
-### How to install (Not TKMM)
+### How to install (Not TKMM, unrecommended)
 
-Make sure that you are not playing on version 1.0.0 of the game, which is not supported.
+Make sure that you are playing on version 1.2.1 of the game, which is the only supported version when not using TKMM.
 
 First of all, make sure you are not using other mods at the same time (except for Performance mods like [Ultracam](https://gamebanana.com/mods/480138), and mods that do not edit any of the system files).
 
 When installing an update of Challenge Mode, make sure to delete the previous Challenge Mode installation(s).
 
 ##### On Yuzu (and forks)
-- Download the version of the mod that matches what you're using. (e.g. if you want the recommended build and you're playing on version 1.2.0 of the game, download `challenge_mode_XXX_for_v120_recommended_.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_140_recommended.zip`).
 - In Yuzu, right click on the game and click Open mod folder.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Properties, to check if the mod is properly enabled.
 
 ##### On Ryujinx (and forks)
-- Download the version of the mod that matches what you're using. (e.g. if you want the recommended build and you're playing on version 1.2.0 of the game, download `challenge_mode_XXX_for_v120_recommended_.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_140_recommended.zip`).
 - In Ryujinx, right click on the game and click Open mod data location.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Manage Mods, to check if the mod is properly enabled.
 
 ##### On Switch hardware (atmosphere)
-- Download the version of the mod that matches what you're using. (e.g. if you want the recommended build and you're playing on version 1.2.0 of the game, download `challenge_mode_XXX_for_v120_recommended_.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_140_recommended.zip`).
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` and `exefs` folders from the mod archive in it.
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000\exefs`, locate the IPS file inside, and cut paste it in `atmosphere\exefs_patches\Challenge Mode`. If that folder doesn't exist, create it.
 
