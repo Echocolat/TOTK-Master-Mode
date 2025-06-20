@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.3.5)
+## TOTK Challenge Mode (v1.4.0)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -72,15 +72,11 @@ Make sure you're using a version that's at least as recent as v2.0.0 beta2. This
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.3.5%20x%20DotK%201.1.2%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.2*
-Dark Army Resurrection: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/DAR%20Compatibility%20Patch%20for%20CM%20-%203.1%20-%20FREE.tkcl?raw=true) - *Target version is 2.1 FREE* - *If you're using the DELUXE version, the compatibility patch is located at the same place you got the .tkcl file for DAR DELUXE*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl/CM%201.4.0%20x%20DotK%201.1.3%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.3*
 
-In case you use Depths of the Kingdom, Dark Army Resurrection and Challenge Mode at the same time, you need to use the following priority order in TKMM:
-- DAR Compatibility Patch for DOTK
-- DAR Compatibility Patch for CM
-- Dark Army Resurrection
+In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
-- DOTK v1.1.2
+- Depths of the Kingdom
 - Challenge Mode
 
 ### How to install (Not TKMM)
@@ -112,9 +108,9 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.3.5)
+### Known issues (v1.4.0)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
-- Enemy Health Regeneration sometimes makes it so that enemies start with only a small portion of their HP. This is being worked on.
+- When installing with TKMM, King and Frost Gleeoks will lose their icicles in the last phase of the fight. This comes from TKMM, and can be resolved by using the [RESTBL Calculator](https://gamebanana.com/tools/15857) on the TKMM output folder.
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!

@@ -2,3 +2,5 @@
 Army.md
 *.zip
 .tkproj
+.vscode
+Builds/
