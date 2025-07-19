@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.4.0)
+## TOTK Challenge Mode (v1.5.0)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -46,7 +46,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 
 ##### Rebalances
 - **Rebalanced Armor upgrade cost**: Armor upgrades that need scalable enemy parts will require the level above, to take into account the Challenge Mode scaling. (__recommended__)
-- **Rebalanced Cooking**: It's impossible for the player to eat raw materials, and cooked food (e.g. Boiled Egg, Frozen and Roasted food) is no longer able to stack. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts. The amount of meal slots was divided by 2 (60 -> 30). (__recommended__)
+- **Rebalanced Cooking**: It's impossible for the player to eat raw materials. Non Zonai scalable enemy parts were buffed, or heavily buffed compared to vanilla, so that they still offer some value even compared to the new, very powerful golden enemy parts. (__recommended__)
 - **Rebalanced modifiers**: Each weapon, bow and shield has now its unique ranges of modifier values. (__recommended__)
 
 ##### Masochism options
@@ -66,13 +66,13 @@ Make sure that you are not playing on version 1.0.0 or 1.4.x of the game, which 
 
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
-Make sure you're using a version that's at least as recent as v2.0.0 beta2. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+Make sure you're using a version that's at least as recent as v2.0.0 beta3. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
 
 #### Compatibility Patches
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.4.0%20x%20DotK%201.1.3%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.3*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.5.0%20x%20DotK%201.1.4%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.4*
 
 In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
@@ -88,19 +88,19 @@ First of all, make sure you are not using other mods at the same time (except fo
 When installing an update of Challenge Mode, make sure to delete the previous Challenge Mode installation(s).
 
 ##### On Yuzu (and forks)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_140_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_150_recommended.zip`).
 - In Yuzu, right click on the game and click Open mod folder.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Properties, to check if the mod is properly enabled.
 
 ##### On Ryujinx (and forks)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_140_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_150_recommended.zip`).
 - In Ryujinx, right click on the game and click Open mod data location.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Manage Mods, to check if the mod is properly enabled.
 
 ##### On Switch hardware (atmosphere)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_140_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_150_recommended.zip`).
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` and `exefs` folders from the mod archive in it.
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000\exefs`, locate the IPS file inside, and cut paste it in `atmosphere\exefs_patches\Challenge Mode`. If that folder doesn't exist, create it.
 
@@ -108,9 +108,10 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.4.0)
+### Known issues (v1.5.0)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - When installing with TKMM, King and Frost Gleeoks will lose their icicles in the last phase of the fight. This comes from TKMM, and can be resolved by using the [RESTBL Calculator](https://gamebanana.com/tools/15857) on the TKMM output folder.
+- Health Regeneration sometimes crashes the game.
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
