@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.5.0)
+## TOTK Challenge Mode (v1.6.0)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -25,6 +25,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Brazilian over American English**: Playing with the American English language will instead use the brazilian translation made by the [Triforce Heroes Team](https://triforce-heroes.com.br/) (for the vanilla game) and Godzilaa4 (for the Challenge Mode part).
 - **Challenge Mode enemies are faster**: All enemies introduced in Challenge Mode are faster than their previous counterparts. The Perfect Dodge timings are harder to execute on them specifically. (__recommended__)
 - **Demon King Ganondorf buff**: Ganondorf is stronger, tankier and faster, his phase 1 projectiles delete your heart containers like in phase 2. Gloom Spawn and Phantom Ganon are also buffed. They also have restricted Perfect Dodge timings when applicable. (__recommended__)
+- **Lightning Strikes can spawn enemies**: Lightning Strikes have a 25% probability of making a Golden or Seized enemy appear. Once it's determined an enemy must appear, it has 20% chance of being a Golden Bokoblin, 15% Golden Moblin, 15% Golden Lizalfos, 15% Golden Horriblin, 7% Golden Boss Bokoblin, 15% Seized Soldier Construct, 10% Seized Captain Construct, 3% Golden Lynel. (__recommended__)
 - **True Demon King's Army**: Custom Demon King's Army made more interesting and way harder. (__recommended__)
 
 ##### Buffs
@@ -55,6 +56,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Demon King Ganondorf buff+**: Demon King Ganondorf buff but on steroids. Demon King Ganondorf is even tankier and stronger, and now deletes your heart containers with ALL of his attacks. He puts all shields at one durability in one attack and all non-Master Sword weapons that hit him will break in one hit. Gloom Spawn and Phantom Ganon are also buffed. They also have restricted Perfect Dodge timings when applicable.
 - **Enemy Elemental Gem Arrows**: Elemental fruits thrown by Bokoblins from their baskets have the area of effect of associated elemental gems. This also applies to any elemental fruit fuse used on arrows by enemies.
 - **Enemy Health Regeneration**: Most of the enemies regenerate slowly their health on a %age basis after 5 seconds untouched, until they regenerated 100% of their health. Made by MaxLastBreath.
+- **Even faster Challenge Mode enemies**: All enemies introduced in Challenge Mode are even faster than the Challenge Mode enemies are faster option. The Perfect Dodge timings are harder to execute on them specifically. 
 - **Hardcore Floating Coliseum**: Very unrecommended option unless you want to suffer. This makes the Floating Coliseum way harder than it is in the base mod.
 - **Lieutenant scaling**: Enemies can scale into Lieutenants, making them not unique anymore, and much more present in the overworld after a while. WARNING: This may take a lot of memory and may crash your Nintendo Switch hardware if used alongside All enemies scale.
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. No temporary save is made after beating it, which will make you restart the Army if you lose to Demon King Ganondorf. WARNING: This may crash your Nintendo Switch hardware. 
@@ -62,17 +64,19 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 
 ### How to install (TKMM)
 
-Make sure that you are not playing on version 1.0.0 or 1.4.x of the game, which are not supported.
+Make sure that you are not playing on version 1.0.0, which is not supported. If you are playing on hardware Switch with firmware 20 or later, you will also need to use romfslite, which is present by default in TKMM.
 
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
-Make sure you're using a version that's at least as recent as v2.0.0 beta3. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+Make sure you're using a version that's at least as recent as v2.0.0-rc1. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
 
 #### Compatibility Patches
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.5.0%20x%20DotK%201.1.4%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.4*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.6.0%20x%20DotK%201.1.4%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.4*
+
+**Note**: Currently Depths of the Kingdom's TKCL file does not work with TKMM 2.0.0-rc1. You will need to download the mod from GameBanana for it to work. Thanks for your understanding.
 
 In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
@@ -81,26 +85,26 @@ In case you use Depths of the Kingdom and Challenge Mode at the same time, you n
 
 ### How to install (Not TKMM, unrecommended)
 
-Make sure that you are playing on version 1.2.1 of the game, which is the only supported version when not using TKMM.
+Make sure that you are playing on version 1.4.2 of the game, which is the only supported version when not using TKMM.
 
 First of all, make sure you are not using other mods at the same time (except for Performance mods like [Ultracam](https://gamebanana.com/mods/480138), and mods that do not edit any of the system files).
 
 When installing an update of Challenge Mode, make sure to delete the previous Challenge Mode installation(s).
 
 ##### On Yuzu (and forks)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_150_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_151_recommended.zip`).
 - In Yuzu, right click on the game and click Open mod folder.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Properties, to check if the mod is properly enabled.
 
 ##### On Ryujinx (and forks)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_150_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_151_recommended.zip`).
 - In Ryujinx, right click on the game and click Open mod data location.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Manage Mods, to check if the mod is properly enabled.
 
 ##### On Switch hardware (atmosphere)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_150_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_151_recommended.zip`).
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` and `exefs` folders from the mod archive in it.
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000\exefs`, locate the IPS file inside, and cut paste it in `atmosphere\exefs_patches\Challenge Mode`. If that folder doesn't exist, create it.
 
@@ -108,9 +112,8 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.5.0)
+### Known issues (v1.6.0)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
-- When installing with TKMM, King and Frost Gleeoks will lose their icicles in the last phase of the fight. This comes from TKMM, and can be resolved by using the [RESTBL Calculator](https://gamebanana.com/tools/15857) on the TKMM output folder.
 - Health Regeneration sometimes crashes the game.
 
 ### If you encounter another issue
@@ -140,7 +143,7 @@ Echocolat, [YourDiamondDog](https://gamebanana.com/members/2792161), MaxLastBrea
 Echocolat (American/European english, American/European french), YourDiamondDog (American/European english), soudakatt (American/European spanish), neokat (Russian), Qw2#8979 (Japanese), dt13269 (Japanese, traditional Chinese), chmoon_0 (Korean), henkita (Italian), sandra938_ (Italian), yasashi_mh (German), xinluochenjiang (Chinese, traditional Chinese), gloriavankuik (Dutch), Godzilaa4 (Portuguese brazilian), Sasso (Italian), vinylplatte (German), fcxdm (Chinese, traditional Chinese), entitytiger (Dutch), tartine_nature (French), don'tcallmeTony (Dani) (Italian), Rimoru48 (German), ne_chelovek322 (Russian), chubby_bub (English)
 
 #### Beta Test Content creators
-Korokii, [KnightPohtaytoe](https://www.youtube.com/@knightpohtaytoe), [Hawkbloo](https://www.youtube.com/@HawkblooYT), [NETv NEWTORK](https://www.youtube.com/@netvnetwork8577), [La Clemstim](https://www.youtube.com/@LaClemstim)
+Korokii, [KnightPohtaytoe](https://www.youtube.com/@knightpohtaytoe), [Hawkbloo](https://www.youtube.com/@HawkblooYT), [NETv NETWORK](https://www.youtube.com/@netvnetwork8577), [La Clemstim](https://www.youtube.com/@LaClemstim)
 
 #### Used tools
 
