@@ -92,20 +92,22 @@ First of all, make sure you are not using other mods at the same time (except fo
 When installing an update of Challenge Mode, make sure to delete the previous Challenge Mode installation(s).
 
 ##### On Yuzu (and forks)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_151_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_160_recommended.zip`).
 - In Yuzu, right click on the game and click Open mod folder.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Properties, to check if the mod is properly enabled.
 
 ##### On Ryujinx (and forks)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_151_recommended.zip`).
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_160_recommended.zip`).
 - In Ryujinx, right click on the game and click Open mod data location.
 - Extract the .zip file inside the mod folder.
 - Right click the game again and click Manage Mods, to check if the mod is properly enabled.
 
 ##### On Switch hardware (atmosphere)
-- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_151_recommended.zip`).
+- [Download Ultracam v3 or later](https://www.nxoptimizer.com/releases/3.2/) and install it.
+- Download the version of the mod that you want. (e.g. if you want the recommended build, download `challenge_mode_160_recommended.zip`).
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000` and extract the `romfs` and `exefs` folders from the mod archive in it.
+- Rename the `romfs` folder to `romfslite`.
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000\exefs`, locate the IPS file inside, and cut paste it in `atmosphere\exefs_patches\Challenge Mode`. If that folder doesn't exist, create it.
 
 ### Regarding save files
