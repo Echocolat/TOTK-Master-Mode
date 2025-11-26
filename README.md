@@ -117,7 +117,6 @@ ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the 
 ### Known issues (v1.6.0)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Health Regeneration sometimes crashes the game.
-- On TKMM v2.0.0-rc1, if installed with Dark Army Resurrection, some enemies may lack enemy parts or weak points, which may make the enemies unkillable.
 
 ### If you encounter another issue
 Please report the issue in the `#bug-report channel` of the Discord server, detailling your game version, platform, issue and if possible with a crash log. We will try to help you and fix the issue if it has to be fixed the quickest possible. Thanks!
