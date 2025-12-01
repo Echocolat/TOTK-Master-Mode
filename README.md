@@ -62,7 +62,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **True Demon King's Army+**: True Demon King's Army but on steroids. Very painful, and absolutely not balanced. No temporary save is made after beating it, which will make you restart the Army if you lose to Demon King Ganondorf. WARNING: This may crash your Nintendo Switch hardware. 
 - **Useless Fairy**: Fairies do not resurrect Link after his HP fall to 0.
 
-### How to install (TKMM)
+### How to install on TKMM
 
 Make sure that you are not playing on version 1.0.0, which is not supported. If you are playing on hardware Switch with firmware 20 or later, you will also need to use romfslite, which is present by default in TKMM.
 
@@ -76,14 +76,14 @@ Make sure you're using a version that's at least as recent as v2.0.0-rc1. This s
 
 Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.6.0%20x%20DotK%201.1.4%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.4*
 
-**Note**: Currently Depths of the Kingdom's TKCL file does not work with TKMM 2.0.0-rc1. You will need to download the mod from GameBanana for it to work. Thanks for your understanding.
+**Note**: Currently Depths of the Kingdom's TKCL file does not work with TKMM 2.0.0-rc1. You will need to download the mod from GameBanana for it to work (not possible on 1.4.x due to a bug in the current release of TKMM, sorry). Thanks for your understanding.
 
 In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
 - Depths of the Kingdom
 - Challenge Mode
 
-### How to install (Not TKMM, unrecommended)
+### How to install without TKMM, unrecommended
 
 Make sure that you are playing on version 1.4.2 of the game, which is the only supported version when not using TKMM.
 
