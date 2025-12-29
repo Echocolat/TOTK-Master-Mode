@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.6.2)
+## TOTK Challenge Mode (v1.7.0)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -34,7 +34,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 
 ##### Nerfs
 - **Harder Perfect Parry timing**: The Perfect Parry window is 3 frames instead of 5. (__recommended__)
-- **Higher Gloom damage multiplier**: Gloomed enemies in the vanilla game inflict 0.3x times their damage converted to gloomed hearts. This was changed to 0.8x their damage. (__recommended__)
+- **Higher Gloom damage multiplier**: Gloomed enemies in the vanilla game inflict 0.3x times their damage converted to gloomed hearts. This was changed to 1.0x their damage. (__recommended__)
 - **Hitstun nerf for Link**: Most of Link's attacks do not interrupt enemies' actions. (__recommended__)
 - **Nerfed charge attacks**: Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)
 - **Nerfed Fairies**: Fairies only heal Link by 1HP (one quarter of a Heart) instead of 20HP (5 Hearts). (__recommended__)
@@ -75,9 +75,7 @@ Make sure you're using a version that's at least as recent as v2.0.0-rc1. This s
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.6.2%20x%20DotK%201.1.4%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.1.4*
-
-**Note**: Currently Depths of the Kingdom's TKCL file does not work with TKMM 2.0.0-rc1. You will need to download the mod from GameBanana for it to work (not possible on 1.4.x due to a bug in the current release of TKMM, sorry). Thanks for your understanding.
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.7.0%20x%20DotK%201.2.0%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.2.0*
 
 In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
@@ -115,7 +113,7 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
-### Known issues (v1.6.2)
+### Known issues (v1.7.0)
 - New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Health Regeneration sometimes crashes the game.
 
