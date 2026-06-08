@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.8.0)
+## TOTK Challenge Mode (v1.8.0.)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -36,6 +36,7 @@ This mod comes with multiple options to enhance your experience. Recommended opt
 - **Harder Perfect Parry timing**: The Perfect Parry window is 3 frames instead of 5. (__recommended__)
 - **Higher Gloom damage multiplier**: Gloomed enemies in the vanilla game inflict 0.3x times their damage converted to gloomed hearts. This was changed to 1.0x their damage. (__recommended__)
 - **Hitstun nerf for Link**: Most of Link's attacks do not interrupt enemies' actions. (__recommended__)
+- **More enemies attack you at the same time**: When you fight many enemies at the same time, there's a cap to how many can attack you at the same time, and the others will just observe / do passive actions. This option bumps it up a bit. (__recommended__)
 - **Nerfed Bone Proficiency**: Bone Proficiency's multiplier is nerfed from 1.8x to 1.5x. (__recommended__)
 - **Nerfed charge attacks**: Link's charged attacks take more time to charge and take more stamina. Two handed weapon charge attack does less damage. (__recommended__)
 - **Nerfed Fairies**: Fairies only heal Link by 1HP (one quarter of a Heart) instead of 20HP (5 Hearts). (__recommended__)
@@ -70,7 +71,7 @@ Make sure that you are not playing on version 1.0.0, which is not supported. If 
 
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
-Make sure you're using a version that's at least as recent as v2.0.0. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+Make sure you're using a version that's at least as recent as v2.0.1. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
 
 #### Compatibility Patches
 
@@ -115,7 +116,6 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
 
 ### Known issues (v1.8.0)
-- New spears introduced by the mod drop further from the player when dropped from the inventory, and their visual swing effect when fused is located way lower on the handle (No fix for the moment)
 - Health Regeneration sometimes crashes the game.
 
 ### If you encounter another issue
@@ -139,7 +139,7 @@ Aster, The5thTear, MaxLastBreath
 [Godzilaa4](https://gamebanana.com/members/2937126) (Yuzu, Ryujinx), [Korokii](https://www.youtube.com/@Korokii_) (Yuzu), Echocolat (Yuzu, Ryujinx), Aster (Switch), [Aëlys](https://gamebanana.com/members/2043076) (Switch), charlie92155 (Yuzu), dt13269 (Yuzu)
 
 #### Planning, development
-Echocolat, [YourDiamondDog](https://gamebanana.com/members/2792161), MaxLastBreath (made the Health Regeneration option), Godzilaa4, The5thTear (gave great ideas), Real Princess Zelda (help with AINB), Deano309 (help with AINB)
+Echocolat, [YourDiamondDog](https://gamebanana.com/members/2792161), MaxLastBreath (made the Health Regeneration option), Godzilaa4, The5thTear (gave great ideas), Real Princess Zelda (help with AINB), Deano309 (help with AINB), porroman. (help with AINB)
 
 #### Translations
 Echocolat (American/European english, American/European french), YourDiamondDog (American/European english), soudakatt (American/European spanish), neokat (Russian), Qw2#8979 (Japanese), dt13269 (Japanese, traditional Chinese), chmoon_0 (Korean), henkita (Italian), sandra938_ (Italian), yasashi_mh (German), xinluochenjiang (Chinese, traditional Chinese), gloriavankuik (Dutch), Godzilaa4 (Portuguese brazilian), Sasso (Italian), vinylplatte (German), fcxdm (Chinese, traditional Chinese), entitytiger (Dutch), tartine_nature (French), don'tcallmeTony (Dani) (Italian), Rimoru48 (German), ne_chelovek322 (Russian), chubby_bub (English), mur_iefi_angeist (Korean)
