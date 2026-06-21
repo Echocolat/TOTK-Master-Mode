@@ -1,6 +1,7 @@
 *.7z
 Army.md
 *.zip
+*.rar
 .tkproj
 .vscode
 Builds/
