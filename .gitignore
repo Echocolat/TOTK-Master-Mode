@@ -3,6 +3,7 @@ Army.md
 *.zip
 *.rar
 .tkproj
+.tkvsc
 .vscode
 Builds/
 Challenge Mode v1.4.1/
