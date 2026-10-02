@@ -1,4 +1,4 @@
-## TOTK Challenge Mode (v1.8.0.)
+## TOTK Challenge Mode (v1.8.0)
 
 [Discord Server](https://discord.gg/Z35qfGBTeH)
 
@@ -71,13 +71,13 @@ Make sure that you are not playing on version 1.0.0, which is not supported. If 
 
 Download the .tkcl file in the Discord server linked above, in the #mod-updates channel.
 
-Make sure you're using a version that's at least as recent as v2.0.1. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
+Make sure you're using a version that's at least as recent as v2.1.6. This should merge fine with any other middle-sized mod that works fine with TKMM. **However, avoid merging with bigger mods such as The Second Quest or Waikuteru's Randomizer, as those mods will require a compatibility patch to ensure the new content of Challenge Mode is properly integrated in the new systems of those bigger mods. Some options do not work with each other by design, so make sure to read their description when the title of the option tells you to do so.**
 
 #### Compatibility Patches
 
 **When installing Compatibility Patches please read attentively the instructions in the TKCL of the Patch.**
 
-Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.8.0%20x%20DotK%201.2.0%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 1.2.0*
+Depths of the Kingdom: [Download compatibility patch](https://github.com/Echocolat/TOTK-Master-Mode/blob/main/Tkcl%20files/CM%201.8.0%20x%20DotK%202.0.0%20Compatibility%20Patch.tkcl?raw=true) - *Target version is 2.0.0*
 
 In case you use Depths of the Kingdom and Challenge Mode at the same time, you need to use the following priority order in TKMM:
 - Challenge Mode x Depths of the Kingdom Compatibility Patch
