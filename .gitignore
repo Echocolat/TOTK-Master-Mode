@@ -27,3 +27,6 @@ restbl.bat
 Compatibility Patches/
 AI Workfolder/
 __pycache__/
+*.json
+generate_graphs.py
+requirements.txt
