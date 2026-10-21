@@ -1,6 +1,6 @@
-### Comparison of the performance of the vanilla game vs when using Challenge Mode (with all recommended options)
+## Comparison of the performance of the vanilla game vs when using Challenge Mode (with all recommended options)
 
-#### Ryubing
+### Ryubing
 Challenge Mode has no or very low impact on performance on Ryubing.
 
 ![Kakariko](/Benchmarks/Ryubing/Individual%20x5/Kakariko.png)
@@ -10,7 +10,7 @@ Challenge Mode has no or very low impact on performance on Ryubing.
 ![Korok Forest](/Benchmarks/Ryubing/Individual%20x5/Korok%20Forest.png)
 ![Goron City](/Benchmarks/Ryubing/Individual%20x5/Goron%20City.png)
 
-#### Citron
+### Citron
 Challenge Mode has no or very low impact on performance on Citron.
 
 ![Kakariko](/Benchmarks/Citron/Individual%20x5/Kakariko.png)
