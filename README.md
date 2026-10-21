@@ -111,6 +111,10 @@ When installing an update of Challenge Mode, make sure to delete the previous Ch
 - Rename the `romfs` folder to `romfslite`.
 - In your modded Switch SD Card, navigate to `atmosphere\contents\0100F2C0115B6000\exefs`, locate the IPS file inside, and cut paste it in `atmosphere\exefs_patches\Challenge Mode`. If that folder doesn't exist, create it.
 
+### Regarding performance
+
+Challenge Mode has very low or inexistant negative impact on performance on Ryubing and Citron. See the [Benchmarks](/Benchmarks/Benchmarks.md) page.
+
 ### Regarding save files
 
 ALWAYS BACK UP YOUR SAVE FILES BEFORE ENABLING OR DISABLING THE MOD. Saving the game with the mod disabled will not get rid of the new materials, weapons, armors etc. Challenge Mode adds from your save file, but as long as the mod is disabled said objects will not be able to be interacted with in your inventory, and trying to do anything with them may result in a freeze or a softlock. Saving with the mod disabled will also remove all the new Challenge Mode flags which means that any new enemy, chest, or weapon spawn will respawn for the next time you will play the mod on this save file, which can alter the player's experience. If you start a save file with Challenge Mode, it's better to not play said save file when Challenge Mode is disabled.
